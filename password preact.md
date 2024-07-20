@@ -1,3 +1,4 @@
+
 Improving the password strength checker using zxcvbn involves refining its usability and enhancing the user experience. Here’s an iteration that builds on the initial implementation to make it more interactive, user-friendly, and informative:
 
 1. Detailed Feedback and Progress Bar
